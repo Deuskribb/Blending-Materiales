@@ -56,7 +56,7 @@ Al ejecutar el código, se exportarán automáticamente los siguientes archivos 
 
 ## Declaración sobre el uso de Asistentes de Inteligencia Artificial (IA)
 
-En cumplimiento con los requerimientos éticos de la asignatura, se declara que se utilizó asistencia de Inteligencia Artificial (Gemini / ChatGPT) como herramienta de apoyo para:
+Se declara que se utilizó asistencia de Inteligencia Artificial (Gemini / ChatGPT) como herramienta de apoyo para:
 
 * Estructuración de la sintaxis en la librería `PuLP`.
 * Formateo de exportación de datos con `pandas` y generación de gráficos en `matplotlib`.
