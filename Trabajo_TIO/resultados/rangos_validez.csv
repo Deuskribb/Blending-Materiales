@@ -1,4 +1,0 @@
-Escenario,Tol_Plomo_%,Estado_Modelo,Costo_Total_USD,Efecto_Observado
-Apretable (0.78%),0.7799999999999999,Infeasible,,Muestra costo si se exige menor tolerancia de Pb
-Base (0.85%),0.8500000000000001,Optimal,35700000.0,Solución óptima actual
-Relajado (0.95%),0.95,Optimal,35240000.0,Muestra costo si se relaja la norma de Pb
